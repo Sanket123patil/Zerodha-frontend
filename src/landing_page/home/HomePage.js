@@ -5,8 +5,8 @@ import Awards from './Awards';
 import Education from './Education';
 import OpenAccount from '../OpenAccount';
 
-import Pricing from './Pricing';
 import Statss from './Statss';
+import Pricing from './Pricing';
 
 
 function HomePage() {
