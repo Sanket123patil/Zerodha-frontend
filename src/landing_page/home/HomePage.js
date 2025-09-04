@@ -4,8 +4,9 @@ import Awards from './Awards';
 
 import Education from './Education';
 import OpenAccount from '../OpenAccount';
-import Stats from './Stats';
+
 import Pricing from './Pricing';
+import Statss from './Statss';
 
 
 function HomePage() {
@@ -14,7 +15,7 @@ function HomePage() {
      
       <Hero/>
       <Awards/>
-      <Stats/>
+      <Statss/>
       <Pricing/>
       <Education/>
       <OpenAccount/>

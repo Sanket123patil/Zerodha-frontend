@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Stats() {
+function Statss() {
     return ( 
         <div className="container p-3">
       <div className="row p-5">
@@ -46,4 +46,4 @@ function Stats() {
      );
 }
 
-export default Stats ;
+export default Statss ;
