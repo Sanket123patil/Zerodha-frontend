@@ -6,8 +6,8 @@ import Education from "./Education";
 
 import OpenAccount from "../OpenAccount";
 
-import Statss from "./Statss";
-import Pricing from "./Pricing";
+import Statss from "../home/Statss";
+import Pricing from "../home/Pricing";
 
 function HomePage() {
   return (
